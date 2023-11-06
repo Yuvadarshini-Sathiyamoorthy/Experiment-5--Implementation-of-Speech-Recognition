@@ -24,9 +24,10 @@ Print the transcribed text on the console if the transcribe process was successf
 Handle any potential errors during the transcribing process. If the audio is not clear, print "not clear". If there's an error while trying to retrieve the transcribed text from the Google speech recognizer, print "Couldnt get results from google speech recognizer".<br>
 
 ## Program:
-Developed by: KERSOAN P
-
-Register number: 212221230050
+```
+Developed by: Yuvadarshini S
+Register number: 212221230126
+```
 ~~~
 import speech_recognition as sr
 
